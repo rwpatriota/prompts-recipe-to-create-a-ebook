@@ -15,19 +15,19 @@ Este projeto com o objetivo gerar um ebook digital com as facilidades das ferram
 Abaixo seguem todos os prompts utilizados para geraação dos dados.
 
 <a href="http://patriota.net.br" title="View PDF now"> 📕 Clique aqui para ler!</a>
-
+<br>
 ## 💻 Tecnologias utilizadas neste projeto:
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
+<br>
 ## 🧠 Prompts
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | rie um título de um ebook sobre o tema abertura Rui Lopez utilizada no jogo de xadrez, o ebook é do nicho de xadrez e o subnicho é aberturas, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos.                                                        |
+|  título  | Crie um título de um ebook sobre o tema abertura Rui Lopez utilizada no jogo de xadrez, o ebook é do nicho de xadrez e o subnicho é aberturas, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos.                                                        |
 | conteúdo | Faça um texto para ebook , com foco para iniciantes, listando as principais qualidades da abertura Rui Lopez. Explique sempre de uma maneira simples. Divida o texto em topicos, abordando listando 10 partidas entre grandes mestres que a abertura Rui lopez foi utilizada e quem jogou com peças brancas venceu, sempre deixando um título sugestivo por tópico. |
 
 
@@ -36,20 +36,21 @@ Craiyon.com：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | one black chess knight. On a plain background. It has to be simple and aesthetic       |
 
-
+<br>
 ## ✨ Features
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Craiyon.com
 
-
+<br>
 ## 📚 Materiais
 - Imagens utilizadas em `assets`
 - E-book gerado após assistir as aulas em `output`
 
-
+<br>
 ## 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
+<br>
 ## 👨‍💻 Expert
 <p>
     <img 
