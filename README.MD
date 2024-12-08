@@ -23,8 +23,6 @@ Abaixo seguem todos os prompts utilizados para geraação dos dados.
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
-
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
@@ -34,30 +32,25 @@ ChatGPT：
 
 
 Craiyon.com：
-
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | one black chess knight. On a plain background. It has to be simple and aesthetic       |
----
+
 
 ## ✨ Features
-
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Craiyon.com
----
+
 
 ## 📚 Materiais
-
 - Imagens utilizadas em `assets`
 - E-book gerado após assistir as aulas em `output`
----
+
 
 ## 🛠️ Instruções de execução
-
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
-
 <p>
     <img 
       align=left 
@@ -65,7 +58,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/35613819"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRodrigo Patriota<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/rwpatriota">
     GitHub</a>&nbsp;|&nbsp;
