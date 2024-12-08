@@ -6,15 +6,6 @@
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 
 -------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
 
 
@@ -87,4 +78,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Meu perfil aqui: [Rodrigo Patriota](https://github.com/rwpatriota)
