@@ -14,7 +14,7 @@
 Este projeto com o objetivo gerar um ebook digital com as facilidades das ferramentas de IA. 
 Abaixo seguem todos os prompts utilizados para geraação dos dados.
 
-<a href="http://patriota.net.br" title="View PDF now"> 📕 Clique aqui para ler!</a>
+<a href="https://github.com/rwpatriota/prompts-recipe-to-create-a-ebook/blob/main/e-book-chess-rui-lopez.pdf" title="View PDF now"> 📕 Clique aqui para ler!</a>
 
 ## 💻 Tecnologias utilizadas neste projeto:
 
@@ -47,7 +47,7 @@ Craiyon.com：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- E-book gerado após assistir as aulas em `output`
+- E-book gerado após assistir as aulas disponível na raíz do projeto.
 
 
 ## 🛠️ Instruções de execução
