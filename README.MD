@@ -38,20 +38,24 @@ Craiyon.com：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | one black chess knight. On a plain background. It has to be simple and aesthetic       |
+---
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Craiyon.com
+---
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - E-book gerado após assistir as aulas em `output`
+---
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+---
 
 ## 👨‍💻 Expert
 
@@ -66,7 +70,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/rwpatriota">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/felipe-exe">
+    <a href="https://linkedin.com/in/rodrigo-patriota-8356a923">
     LinkedIn</a>
     &nbsp;|&nbsp;
     <a href="https://www.instagram.com/rodrigo__patriota/">
